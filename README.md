@@ -57,8 +57,8 @@ Input (3, 64, 64)
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/yasirkhalil5665/CNN.git
+cd CNN
 pip install -r requirements.txt
 ```
 
