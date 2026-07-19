@@ -1,4 +1,4 @@
-# 🌈 Rainbow Colors CNN Classifier
+Rainbow Colors CNN Classifier
 
 A beginner-friendly PyTorch project for practicing CNNs on a small, simple image dataset. Built with a TinyVGG architecture to classify images into the 7 rainbow colors: **red, orange, yellow, green, blue, indigo, violet**.
 
