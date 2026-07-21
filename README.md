@@ -70,8 +70,6 @@ Open and run `CNN_Rainbow.ipynb` in Jupyter:
 jupyter notebook CNN_Rainbow.ipynb
 ```
 
-Run all cells top to bottom — the notebook will load the dataset, build the model, train for the set number of epochs, and print train/test loss and accuracy per epoch.
-
 ## Key Learnings
 
 - **Non-linearity matters**: removing `ReLU` between conv layers collapses a multi-layer conv stack into an equivalent single linear operation, capping model capacity regardless of depth.
